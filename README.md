@@ -1,2 +1,2 @@
 # Appscript-
-## In this am going to write the app script code i executed for futher lookup.
+## In this am going to write the Googele App script code i executed for futher lookup.
